@@ -1,0 +1,28 @@
+{
+  "name": "sms-handler-bot",
+  "version": "1.0.0",
+  "description": "A bot for handling SMS-related services, including buying numbers and checking OTP statuses from SMS-RU and SMS-Activate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SMS",
+    "SMS-RU",
+    "SMS-Activate",
+    "bot",
+    "OTP",
+    "automation",
+    "nodejs",
+    "sms-handler",
+    "sms-services"
+  ],
+  "author": "dante4rt",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "readline-sync": "^1.4.10"
+  }
+}
